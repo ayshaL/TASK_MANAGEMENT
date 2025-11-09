@@ -100,6 +100,8 @@ npm run lint
 - **Aysha Lassoued** - [ayshaL](https://github.com/ayshaL)
 - **Israa Daassi** - [israadaassi1](https://github.com/issraadaassi1)
 - **Maether Guennichi** - [maether44](https://github.com/maether44)
+- **Mayssa Gloulou** - [mayssagl](https://github.com/mayssagl)
+- **Zeineb Megaadi** - [ZeinebMegaadi](https://github.com/ZeinebMegaadi)
 
 ---
 

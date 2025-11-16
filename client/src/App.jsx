@@ -14,6 +14,8 @@ function App() {
       {/* index.html kinda */}
       <Login onLoginSuccess={() => alert('Login Successful!')} />
       <Footer />
+      <Sidebar />
+      <Dashboard />
     </>
   )
 }
